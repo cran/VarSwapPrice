@@ -1,0 +1,8 @@
+925db457d89373d1098d9e8c5f2e3680 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+97f7dd849fa1d1ef2da6032d8a4653cf *R/VarSwap.R
+db03894df34ba9eb961faa3dd58c65ea *demo/00Index
+54240260b5ec4d408f5051eaa35ca903 *demo/example.R
+24e348b5d27b0ed05a5bfcd448635945 *man/VarSwap.Rd
+323c43797e1afabb1081a6331aa2489a *man/VarSwapPrice-package.Rd
+8cafe51b7c07856204efec73c934f72f *man/black_scholes.Rd
